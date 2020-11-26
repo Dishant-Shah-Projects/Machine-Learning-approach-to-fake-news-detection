@@ -1,7 +1,7 @@
 # Machine-Learning-approach-to-fake-news-detection
 This is the repository for the CMPE 255 Project on using machine learning models for fake news detection.
 
-**There are three files in the src folder:**
+**There are three files in the src folder which were utilized in the final project:**
 
 - most_common_Words_visualization.ipynb
   - This contains the code used to plot Figure 1.
