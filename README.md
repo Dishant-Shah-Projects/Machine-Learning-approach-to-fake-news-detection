@@ -16,8 +16,3 @@ This is the repository for the CMPE 255 Project on using machine learning models
   - This contains the files where the code for the model processing is kept. The final model is run separately as it was decided on at a later point in comparison to the other three.
 
   
-
-**There is 1 file in the data folder:**
-
-- edditeddata.csv.
-  - This contains the data frame after cleanup and preprocessing instead of the original format in which it was saved.
